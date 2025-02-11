@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "jlyn",
+    "file": "samples/ohhh.m4a",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "pablo",
+    "file": "samples/pBLO.m4a",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "voicemail",
+    "file": "samples/voicemail-12944951104.m4a",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
