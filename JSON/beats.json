@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "kick",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "claps",
+    "pitch": "C4",
+    "pattern": "10000000"
+  },
+  {
+    "name": "hi hat",
+    "pitch": "F#4",
+    "pattern": "10"
+  },
+  {
+    "name": "kick",
+    "pitch": "A#3",
+    "pattern": "100000"
+  },
+  {
+    "name": "shot 1",
+    "pitch": "C#4",
+    "pattern": "10000000000000000000"
+  },
+  {
+    "name": "kick",
+    "pitch": "F4",
+    "pattern": "1000"
+  },
+  {
+    "name": "shot 2",
+    "pitch": "D#4",
+    "pattern": "1000000000"
+  }
+]
